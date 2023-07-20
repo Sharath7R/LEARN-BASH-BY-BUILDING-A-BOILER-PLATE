@@ -1,0 +1,290 @@
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv roboto.woff fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.ttf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv menlo.otf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv index.html client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv index.js client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv styles.css cleint/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv styles.css client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name index.html
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name styles.css
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch background.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ../../..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv header.png ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name assets/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv header.png client/assets/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv images/footer.jpeg client/assets/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm images/background.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir clients/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeAlly.svg clinet/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeAlly.svg client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeRoad.svg client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv freeCodeCamp.svg client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/roboto-light.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/lato-bold.ttf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/lato-light.ttf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch package.json
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch server.js
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo Yay!
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I finished the boilerplate!
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo one more thing...
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I made this boilerplate >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo from the command line >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo for the freeCodeCamp bash lessons >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more READEME.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv website website-boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+copy --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cp --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cp -r website-boilerplate toms-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name toms-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find toms-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+fond website-bolerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find website-boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo goodbye terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+exit
